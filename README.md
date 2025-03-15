@@ -1,6 +1,3 @@
-### **Updated README.md** for Gesture-Based Drawing Pad
-
-```markdown
 # ✋🖌️ Gesture-Based Drawing Pad
 
 This project is a **gesture-based drawing pad** built using **Python**, **OpenCV**, and **MediaPipe**. It enables real-time hand gesture recognition for drawing, erasing, and changing colors.
